@@ -4,7 +4,9 @@
 Create a weekly, public-link-ready report of trending GitHub repositories, especially AI/agent/devtool/software-infrastructure repos, ranked by recent star growth and translated into practical recommendations for Alej's systems.
 
 ## Current prototype
-- Static site: `site/index.html`
+- Live public URL: https://adsaver-labs.github.io/github-trending-repo-radar/
+- Static source: `site/index.html`
+- GitHub Pages published copy: `docs/index.html`
 - Sample data: `data/weekly-2026-07-04-sample.json`
 - Source used for prototype: GitHub Trending weekly public page.
 
